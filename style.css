@@ -1,0 +1,83 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2em;
+  margin: 0;
+}
+
+header p {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+#cursos {
+  padding: 20px;
+}
+
+#cursos h2 {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+#cursos ul {
+  list-style: none;
+  padding: 0;
+}
+
+#cursos li {
+  display: inline-block;
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#cursos li a {
+  color: #333;
+  text-decoration: none;
+}
+
+#cursos li a h3 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+#cursos li a p {
+  font-size: 1em;
+}
+
+#testimonios {
+  background-color: #f7f7f7;
+  padding: 20px;
+}
+
+#testimonios h2 {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+#testimonios ul {
+  list-style: none;
+  padding: 0;
+}
+
+#testimonios li {
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+#testimonios li blockquote
